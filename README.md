@@ -1,2 +1,4 @@
 # GIT_TEST_IICT
-test git e, github
+test git en github
+
+dit is een **repo**
